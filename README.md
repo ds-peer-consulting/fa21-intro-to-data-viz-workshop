@@ -1,5 +1,5 @@
-# Workshop Name
-By: Name1, Name2, Name3
+# Intro to Python Data Visualizations Workshop
+By: Teresa Du, Spencer Le, Barry Swaminathan, & Nayan Chavan
 Workshop Date: 1/1/11
 
 ## Workshop Goal(s): 
