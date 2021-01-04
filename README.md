@@ -6,7 +6,7 @@ Workshop Date: 1/1/11
 Set up a repository structure to encourage a consistent standard for workshop creation.
 Update this to be the same as the goals in the notebook.
 
-## For UC Berkeley Students: [Datahub Link]()
+## For UC Berkeley Students: [Datahub Link]() [INSERT LINK]
 
 ## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/sp21-intro-to-data-viz-workshop/HEAD)
 
