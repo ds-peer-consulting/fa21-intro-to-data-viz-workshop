@@ -1,6 +1,6 @@
 # Intro to Python Data Visualizations Workshop
 #### By: Teresa Du, Spencer Le, Barry Swaminathan, & Nayan Chavan
-Workshop Date: 1/1/11
+Workshop Date: 1/27/21
 
 ## Workshop Goal(s): 
 Set up a repository structure to encourage a consistent standard for workshop creation.
