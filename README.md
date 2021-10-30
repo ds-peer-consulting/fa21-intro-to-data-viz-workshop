@@ -10,5 +10,6 @@ Update this to be the same as the goals in the notebook.
 
 ## For everyone else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa21-intro-to-data-viz-workshop/HEAD)
 
+[F21 Workshop Recording](https://drive.google.com/drive/folders/1nCMxMcJyW2lqy2Tm9hBVPLt6PRkicoSy?usp=sharing)
 [S21 Workshop Recording](https://drive.google.com/file/d/1v9tGvknX9vSzGPcKFaeop91i2tzBx2iQ/view?usp=sharing)  
 [S21 Transcript of Recording](https://drive.google.com/file/d/1IxhwqbAo9O9DO2ngdQGnBprlUQWDHK3z/view?usp=sharing)
